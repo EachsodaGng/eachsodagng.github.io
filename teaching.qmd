@@ -6,14 +6,14 @@ title: "Teaching"
      write [Syllabus](pos2041-syllabus.pdf); Quarto copies linked files into docs/. -->
 
 
-I teach courses in American politics.
+I teach a course in American politics.
 
-Instructor of Record
+## Instructor of Record
 
-POS 1041: American National Government, Florida State University, Summer 2026.
+**POS 1041**: American National Government, Florida State University, Summer 2026.
 
-Teaching Assistant
+## Teaching Assistant
 
-POS 1041: American National Government, Florida State University, 2024–2026.
+**POS 1041**: American National Government, Florida State University, 2024–2026.
 
-POS 3204: Public Opinion and Electoral Behavior, Florida State University, 2026
+**POS 3204**: Public Opinion and Electoral Behavior, Florida State University, 2026
